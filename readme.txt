@@ -7,3 +7,5 @@ change from remote repo
 
 
 changing
+
+clear
